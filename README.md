@@ -967,6 +967,7 @@ This project builds on:
 - **GitHub Discussions**: Technical questions and ideas
 - **Issues**: Bug reports and feature requests
 - **Contributing**: See [CONTRIBUTING.md](CONTRIBUTING.md)
+- Give us a shout on Reddit
 
 ## License
 
